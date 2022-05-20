@@ -1,7 +1,14 @@
 documentation doc
 ===================================
+*** blank ***
 
-**BrainSuite BIDS Appe** does some stuff.
+** blank **
+
+* blank *
+
+.. xxx::
+
+** our software ** does some stuff.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
