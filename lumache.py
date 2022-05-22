@@ -1,8 +1,8 @@
 """
-Lumache - Python library for cooks and food lovers.
+docdoc - documentation of documentation
 """
 
-__version__ = "0.1.0"
+__version__ = "3.1.4"
 
 
 class InvalidKindError(Exception):
